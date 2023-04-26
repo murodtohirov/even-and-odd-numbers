@@ -2,4 +2,8 @@
 
 // Print 1 if the number is even, otherwise print 0.
 
-void main() {}
+void main() {
+  int number =40;
+  print (number%2);
+
+}
